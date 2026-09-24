@@ -310,7 +310,7 @@ export default function Mission() {
                     <div className="mb-3 flex items-center gap-2">
                       <span className="h-1.5 w-1.5 rounded-full bg-[#0b7a75]"></span>
                       <p className="text-[10px] font-bold tracking-[0.1em] text-[#0b7a75]">
-                        ZUNO&apos;S NOTES
+                        ZUNO'S NOTES
                       </p>
                     </div>
 
