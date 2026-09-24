@@ -210,7 +210,7 @@ export default function Progress() {
               <span className="absolute left-0 top-0 h-full w-1 rounded-full bg-[#2f80ed]"></span>
 
               <p className="text-sm italic leading-[1.75] text-[#40575b]">
-                "{aiMessage}"
+              &quot;{aiMessage}&quot;
               </p>
             </div>
           </div>
